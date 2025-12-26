@@ -3,6 +3,7 @@
   "version": "0.9.5",
   "description": "SVG flag for react-native",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/jackmew/react-native-svg-flagkit"
@@ -24,9 +25,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "react-native-svg": "^9.3.3"
   },
   "peerDependencies": {
     "react": "*",
