@@ -28,6 +28,10 @@
   "dependencies": {
     "react-native-svg": "^9.3.3"
   },
+  "peerDependencies": {
+    "react": "*",
+    "react-native-svg": "*"
+  },
   "author": "",
   "license": "ISC"
 }
