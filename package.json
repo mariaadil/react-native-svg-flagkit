@@ -26,7 +26,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies":{}
   "peerDependencies": {
     "react": "*",
     "react-native-svg": ">=15.15.1"
