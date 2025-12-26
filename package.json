@@ -28,7 +28,7 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native-svg": "*"
+    "react-native-svg": ">=15.0.0"
   },
   "author": "",
   "license": "ISC"
